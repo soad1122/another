@@ -7,7 +7,7 @@ int main()
     int i; char str[100];
     printf("Enter string: ");
     gets(str);
-    printf("Number of vowel: ");
+    printf("Number of vowel: ");ASDFBGVBNM
     int count=0;
     for(i=0; str[i]!='\0';i++)
     {
